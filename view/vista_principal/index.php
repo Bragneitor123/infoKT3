@@ -25,8 +25,6 @@
         </div>
         <div class="caja2">
             <nav class="caja3">
-                <a href="#ruta_de_aprendizaje" class="link_superior" title="Ruta de aprendizaje">Ruta de aprendizaje</a>
-                <a href="#ruta_de_aprendizaje_secundaria" class="link_superior" title="Cursos opcionales">Cursos opcionales</a>
                 <a href="../acerca_nosotros/index.php" class="link_superior" title="Acerca de">Acerca de</a>
                 <a href="../perfil/index.php" class="link_superior" title="Perfil">Perfil</a>
             </nav>
