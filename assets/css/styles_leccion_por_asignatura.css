@@ -51,7 +51,8 @@ a {
 }
 
 a:hover {
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .link_superior {
